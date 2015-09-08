@@ -19,7 +19,7 @@ Ebay/productDetailsView.swift
 Unit-Tests for all the controllers can be found in simpleAppTests/simpleAppTests.swift  
 
 ###Snapshots Of the working application
-simpleIOSApp/snapshots
+simpleIOSApp/screenshots
     ##Loading.png :
         Snapshot of the loading screen. Displayed while the application is initializing
     ##Home-Page.png :
