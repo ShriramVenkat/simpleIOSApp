@@ -1,0 +1,24 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "3-part-horizontal",
+        "center" : {
+          "mode" : "fill",
+          "width" : 538
+        },
+        "capInsets" : {
+          "right" : 146,
+          "left" : 116
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "ebaymobilelogo001.png",
+      "scale" : "1x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
